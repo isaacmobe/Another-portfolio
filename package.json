@@ -1,4 +1,7 @@
 {
+  "name": "portfolio-1",
+  "version": "1.0.0",
+  "description": "Portfolio 1 - Personal portfolio website",
   "dependencies": {
     "@iconscout/unicons": "^4.0.1"
   }
